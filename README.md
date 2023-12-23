@@ -1,0 +1,1 @@
+Example Replica Application of Existing VEVO System devleoped and used by DHA using ASP.NET Application with React. This is for educational purposes only. Uses assets gained from Department of Christmas Affairs.
